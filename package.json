@@ -1,6 +1,6 @@
 {
   "name": "synqly",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Official TypeScript/JavaScript SDK for Synqly.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
