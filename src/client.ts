@@ -19,7 +19,7 @@ export class Client {
     }
 
     this.axiosInstance = axios.create({
-      baseURL: config.baseURL || 'https://synqly.onrender.com',
+      baseURL: config.baseURL || 'https://api.synqly.xyz',
       timeout: config.timeout || 30000,
       headers: {
         'Content-Type': 'application/json',
